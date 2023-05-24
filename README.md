@@ -1,3 +1,3 @@
-# SummWizAI
+# summwiz.ai
 
 ---

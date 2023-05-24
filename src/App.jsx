@@ -1,5 +1,16 @@
-import React from "react";
+import { Demo, Hero } from "./components";
 
 export default function App() {
-  return <div>App</div>;
+  return (
+    <main>
+      <div className="main">
+        <div className="gradient" />
+      </div>
+
+      <div className="app">
+        <Hero />
+        <Demo />
+      </div>
+    </main>
+  );
 }
